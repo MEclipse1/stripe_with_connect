@@ -1,0 +1,33 @@
+{
+  "id": "tok_1HCzauCCFiKXeHbs4KOR9XWW",
+  "object": "token",
+  "card": {
+    "id": "card_1HCzauCCFiKXeHbs1q3CN8Oz",
+    "object": "card",
+    "address_city": null,
+    "address_country": null,
+    "address_line1": null,
+    "address_line1_check": null,
+    "address_line2": null,
+    "address_state": null,
+    "address_zip": null,
+    "address_zip_check": null,
+    "brand": "MasterCard",
+    "country": "US",
+    "cvc_check": "unchecked",
+    "dynamic_last4": null,
+    "exp_month": 12,
+    "exp_year": 2021,
+    "funding": "credit",
+    "last4": "4444",
+    "metadata": {
+    },
+    "name": null,
+    "tokenization_method": null
+  },
+  "client_ip": "42.84.44.241",
+  "created": 1596683800,
+  "livemode": false,
+  "type": "card",
+  "used": false
+}

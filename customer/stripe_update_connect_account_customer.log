@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "token_already_used",
+    "doc_url": "https://stripe.com/docs/error-codes/token-already-used",
+    "message": "You cannot use a Stripe token more than once: tok_1HCz82CCFiKXeHbsguuboo6n.",
+    "type": "invalid_request_error"
+  }
+}

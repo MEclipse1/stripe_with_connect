@@ -1,0 +1,21 @@
+{
+  "id": "prod_HmZ35m6CFEaDwn",
+  "object": "product",
+  "active": true,
+  "attributes": [
+
+  ],
+  "created": 1596685094,
+  "description": null,
+  "images": [
+
+  ],
+  "livemode": false,
+  "metadata": {
+  },
+  "name": "Gold Special",
+  "statement_descriptor": null,
+  "type": "service",
+  "unit_label": null,
+  "updated": 1596685094
+}

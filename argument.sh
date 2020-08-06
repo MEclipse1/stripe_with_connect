@@ -1,0 +1,10 @@
+STRIPE_PUBLISHABLE_KEY=pk_test_51H9WC4BXwidf0LI7KYS2iPHfZYXaB7P4cOKf3x6j53jfogHZBfl9RJRtqnNfWSrdSsr87X36mcRJkGaNbOlicASM00QByhZZq8
+STRIPE_SECRET_KEY=
+STRIPE_ACCOUNT_ID=acct_1HBz34CCFiKXeHbs
+
+stripeToken=tok_1HCzauCCFiKXeHbs4KOR9XWW
+customer=cus_HmYj7xkfgxpLsZ
+
+products=prod_HmZ35m6CFEaDwn
+plan=plan_HmZH4jpXPzKLBG
+subscription=sub_HmagiKCLy0eFad
